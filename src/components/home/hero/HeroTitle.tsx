@@ -20,7 +20,7 @@ export default function HeroTitle() {
         transition={{ delay: 0.5, duration: 0.8 }}
         className="text-5xl lg:text-6xl xl:text-7xl font-bold"
       >
-        & Africa's Financial Future
+        Africa's Financial Future
       </motion.div>
     </h1>
   );
