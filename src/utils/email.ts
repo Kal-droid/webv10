@@ -5,7 +5,8 @@ interface EmailData {
 }
 
 export function createMailtoLink(data: EmailData) {
-  const recipient = 'contact@cbecapitalsc.com';
+  //const recipient = 'contact@cbecapitalsc.com';
+  const recipient = 'kaleab23@outlook.com';
   const subject = `Contact Form Submission from ${data.name}`;
   const body = `Name: ${data.name}\nEmail: ${data.email}\n\nMessage:\n${data.message}`;
   
