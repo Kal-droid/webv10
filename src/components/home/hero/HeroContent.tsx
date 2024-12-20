@@ -48,7 +48,7 @@ export default function HeroContent() {
         <span className="text-accent">CBE Capital</span>
         <span className="text-white">: Pioneering</span>
         <br />
-        <span className="text-white">& Africa's Financial Future</span>
+        <span className="text-white">Africa's Financial Future</span>
       </motion.h1>
 
       <motion.p
