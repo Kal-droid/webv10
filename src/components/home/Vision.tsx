@@ -6,7 +6,7 @@ export default function Vision() {
     <div className="py-16 bg-white">
       <div className="container mx-auto px-4">
         <h2 className="text-4xl font-bold text-blue-900 mb-12">
-          Our Vision: Transforming Ethiopia's and Africa's Financial Landscape
+          Our Vision: Transforming Africa's Financial Landscape
         </h2>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           {visionSteps.map((step) => (
