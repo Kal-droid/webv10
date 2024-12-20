@@ -16,7 +16,7 @@ export default function TransformationSection() {
           className="text-center mb-16"
         >
           <Text variant="h2" className="text-white mb-4">
-            Empowering Ethiopia's and Africa's Capital Market Transformation
+            Empowering Africa's Capital Market Transformation
           </Text>
           <Text variant="body" className="text-accent-light text-lg max-w-3xl mx-auto">
             A strategic approach to revolutionizing the financial landscape
