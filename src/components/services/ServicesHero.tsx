@@ -25,7 +25,8 @@ export default function ServicesHero() {
           
           <div className="max-w-4xl mx-auto">
             <Text variant="h1" className="mb-6 whitespace-nowrap">
-              Financial Services & Solutions
+             <span className="block sm:inline">Financial Services</span>
+              <span className="block sm:inline">&nbsp;& Solutions</span>
             </Text>
             
             <Text variant="body" className="text-accent-light text-lg md:text-xl">
